@@ -3,8 +3,8 @@ numpy
 matplotlib
 seaborn
 plotly
-scikit-learn
-xgboost
+scikit-learn==1.2.2
+xgboost==2.0.3
 lightgbm
 catboost
 geopy
