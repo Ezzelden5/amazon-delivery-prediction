@@ -144,10 +144,6 @@ amazon-delivery-prediction/
 - **Top Feature:** Product Category (29% importance)
 - **5-Fold CV:** Stable performance across all folds
 
----
-
-## 👤 Author
-[Your Name]
 
 ---
 
@@ -158,4 +154,4 @@ This project is for educational purposes.
 
 ## 🙏 Acknowledgements
 - [Amazon Delivery Dataset — Kaggle](https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset)
-- [Epsilon AI](https://github.com/Epsilon-AI) — Course materials and guidance
+- [Epsilon AI](https://github.com/Epsilon-AI)
